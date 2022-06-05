@@ -1,0 +1,146 @@
+/* Помощь */
+
+/* * { 
+    color: blueviolet;
+} */
+
+/* a {
+    color: aquamarine;
+} */
+
+/* .page-header {
+    background-color: black;
+} */
+
+/* .page-header a {
+    background-color: black;
+} */
+/* 
+font-sice: (px, en, ren) */
+
+
+
+
+ :root {
+    primary-color color: #212121;
+    text-color color: #757575;
+    secondary-color color: #FFFFFF;
+    secondary-link-color color: rgba(255, 255, 255, 0.6);
+    accent-color color: #2196F3;   
+    background-floor: #2F303A;
+}
+
+
+/* Header */
+.logo {
+    color: #000000;
+}
+.logo-span,
+.nav-link:hover,
+.nav-link:focus,
+.list-item:hover,
+.list-item:focus,
+.nav-link-too:hover,
+.nav-link-too:focus,
+.link-list-too:hover,
+.link-list-too:focus,
+.link-work-too:hover,
+.link-work-too:focus
+ {
+    color: #2196F3;
+}
+.nav-link {
+    color: #212121;
+}
+.list-item {
+    color: #757575;
+}
+/* .nav-link:hover {
+    color:  #2196F3;
+}
+.nav-link:focus {
+    color:  #2196F3;
+}
+.nav-link:active {
+    color:  #2196F3; */
+/* } */ 
+
+/* hero */
+
+.hero-section {
+    background-color:  #2F303A;
+}
+.hero-title {
+    color: #FFFFFF;
+}
+.peculiarities {
+    color: #212121;
+}
+.peculiarities-title {
+    color: #757575;
+}
+.do {
+    color: #212121;
+}
+.team {
+    color: #212121;
+}
+.team-name {
+    color: #212121;
+}
+.team-title {
+    color: #757575;
+}
+.studio-footer {
+     color:#FFFFFF;
+}
+.footer {
+    background-color:#2F303A;
+}
+.web-footer {
+    color: #2196F3;
+}
+.info {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+/* Вторая страница */
+
+/* Хед  */
+
+.logo-too {
+    color: #000000;
+}
+.logo-too-span {
+    color: #2196F3;
+}
+.list-too {
+    color: #212121;
+}
+.link-list-too {
+    color: #757575;
+}
+
+/* ссылки на роботы (возможно батон) */
+
+.link-work {
+    color: #212121;
+}
+.nazv-pr {
+    color: #212121;
+}
+.nazv-pr-too {
+    color: #757575;
+}
+.port-footer {
+    color:#FFFFFF;
+}
+.p-f {
+    background-color:#2F303A;
+}
+.portf-span {
+    color: #2196F3;
+}
+.com-footer {
+    color: rgba(255, 255, 255, 0.6);
+}
